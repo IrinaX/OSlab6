@@ -1,0 +1,14 @@
+D:\notWIN\universityDolgi\OC\6\6\Client\bin\Debug\Client.exe.config
+D:\notWIN\universityDolgi\OC\6\6\Client\bin\Debug\Client.exe
+D:\notWIN\universityDolgi\OC\6\6\Client\bin\Debug\Client.pdb
+D:\notWIN\universityDolgi\OC\6\6\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\notWIN\universityDolgi\OC\6\6\Client\obj\Debug\Client.exe
+D:\notWIN\universityDolgi\OC\6\6\Client\obj\Debug\Client.pdb
+D:\notWIN\universityDolgi\OC\6\6\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\notWIN\universityDolgi\OC\6\Client\bin\Debug\Client.exe.config
+D:\notWIN\universityDolgi\OC\6\Client\bin\Debug\Client.exe
+D:\notWIN\universityDolgi\OC\6\Client\bin\Debug\Client.pdb
+D:\notWIN\universityDolgi\OC\6\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\notWIN\universityDolgi\OC\6\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\notWIN\universityDolgi\OC\6\Client\obj\Debug\Client.exe
+D:\notWIN\universityDolgi\OC\6\Client\obj\Debug\Client.pdb

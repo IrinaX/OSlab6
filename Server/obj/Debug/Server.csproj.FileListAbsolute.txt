@@ -1,0 +1,13 @@
+D:\notWIN\universityDolgi\OC\6\6\Server\bin\Debug\Server.exe.config
+D:\notWIN\universityDolgi\OC\6\6\Server\bin\Debug\Server.exe
+D:\notWIN\universityDolgi\OC\6\6\Server\bin\Debug\Server.pdb
+D:\notWIN\universityDolgi\OC\6\6\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\notWIN\universityDolgi\OC\6\6\Server\obj\Debug\Server.exe
+D:\notWIN\universityDolgi\OC\6\6\Server\obj\Debug\Server.pdb
+D:\notWIN\universityDolgi\OC\6\Server\bin\Debug\Server.exe.config
+D:\notWIN\universityDolgi\OC\6\Server\bin\Debug\Server.exe
+D:\notWIN\universityDolgi\OC\6\Server\bin\Debug\Server.pdb
+D:\notWIN\universityDolgi\OC\6\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\notWIN\universityDolgi\OC\6\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\notWIN\universityDolgi\OC\6\Server\obj\Debug\Server.exe
+D:\notWIN\universityDolgi\OC\6\Server\obj\Debug\Server.pdb
